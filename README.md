@@ -1,2 +1,2 @@
-# APCS-A-Workspace
+# APCS-Workspace
 Workspace of all APCS-A Labs
